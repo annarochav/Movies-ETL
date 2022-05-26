@@ -1,4 +1,10 @@
-
+#Add files to ignore
+config.py
+movies_metadata.csv
+ratings.csv
+wikipedia-movies.json
+MovieLens Extract.ipynb
+etl .ipynb
 
 
 
