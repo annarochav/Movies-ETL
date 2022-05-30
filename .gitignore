@@ -5,6 +5,8 @@ ratings.csv
 wikipedia-movies.json
 MovieLens Extract.ipynb
 etl .ipynb
+movies_metadata2.csv
+ratings2.csv
 
 
 
